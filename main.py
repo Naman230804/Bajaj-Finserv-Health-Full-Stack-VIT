@@ -5,7 +5,7 @@ from typing import List
 app = FastAPI()
 
 # Your details
-FULL_NAME = "naman boob"
+FULL_NAME = "naman_boob"
 DOB = "23082004"   # ddmmyyyy
 EMAIL = "naman.22bcb7094@vitapstudent.ac.in"
 ROLL_NUMBER = "22BCB7094"
