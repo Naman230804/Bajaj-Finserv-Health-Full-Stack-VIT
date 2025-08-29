@@ -5,10 +5,10 @@ from typing import List
 app = FastAPI()
 
 # Your details
-FULL_NAME = "john_doe"
-DOB = "17091999"   # ddmmyyyy
-EMAIL = "john@xyz.com"
-ROLL_NUMBER = "ABCD123"
+FULL_NAME = "Naman Boob"
+DOB = "23082004"   # ddmmyyyy
+EMAIL = "naman.22bcb7094@vitapstudent.ac.in"
+ROLL_NUMBER = "22BCB7094"
 
 class InputData(BaseModel):
     data: List[str]
